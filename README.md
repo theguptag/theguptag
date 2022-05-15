@@ -1,7 +1,13 @@
-- 👋 Hi, I’m Ganpat Gupta a Frontend developer, who enjoys building things that live on the internet.
-- 👀 I’m interested in web development, trading and blogging.
-- 🌱 I’m currently learning JavaScript and it's framework.
-- 📫 How to reach me - DM on Insta: @theguptaji
+
+👋 Hi, I’m Ganpat Gupta.
+
+💻 A Frontend developer, who enjoys building things that live on the internet.
+
+🎯 Currently learning JavaScript and it's framework.
+
+🔗 <a href="https://www.ganpatgupta.com">Check out my website</a>
+
+📩 <a href="https://docs.google.com/forms/d/e/1FAIpQLScGEyX5xG4Na_n4MvqDMmGnjlx9q8EcV987w1qcVmozZxu8ew/viewform">Contact</a>
 
 <!---
 theguptag/theguptag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
