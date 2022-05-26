@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development, WordPress & Shopify Dev.**
 
-- 📫 How to reach me **DM on LinkedIn**
+- 📫 How to reach me **<a href="https://docs.google.com/forms/d/e/1FAIpQLScGEyX5xG4Na_n4MvqDMmGnjlx9q8EcV987w1qcVmozZxu8ew/viewform">Message here!</a>**
 
 - 🔗 Portfolio [https://ganpatgupta.com/](https://ganpatgupta.com/)
 
