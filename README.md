@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/theguptaji" target="blank"><img src="https://img.shields.io/twitter/follow/theguptaji?logo=twitter&style=for-the-badge" alt="theguptaji" /></a> </p>
 
-- 🌱 I’m currently learning **JS libraries and frameworks.**
-
 - 💬 Ask me about **Web Development, WordPress & Shopify Dev.**
 
 - 📫 How to reach me **<a href="https://docs.google.com/forms/d/e/1FAIpQLScGEyX5xG4Na_n4MvqDMmGnjlx9q8EcV987w1qcVmozZxu8ew/viewform">Message here!</a>**
